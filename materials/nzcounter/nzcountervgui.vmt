@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "nzcounter/nzcountervgui"
+	"$translucent" "1"
+}
