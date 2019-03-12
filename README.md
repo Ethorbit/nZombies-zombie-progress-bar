@@ -1,4 +1,5 @@
 # nZombies Zombie Counter
+Video demonstration here: https://www.youtube.com/watch?v=GBM4VnRUXXg
 
 ## About this mod:
 
@@ -13,3 +14,6 @@ This mod is as customizable as it gets, allowing users to change the height, wid
 
 ![](https://i.imgur.com/MHjHTv5.gif)
 
+## Mod compatibility:
+* This mod will only function in the gamemode 'nZombies'
+* All monitor resolutions are supported so long as they are above 706 x 736
