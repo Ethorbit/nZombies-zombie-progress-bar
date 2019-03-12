@@ -3,7 +3,7 @@ Mod demonstration here: https://www.youtube.com/watch?v=GBM4VnRUXXg
 
 ## About this mod:
 
-The nZombies Zombie Counter is an addon designed for the nZombies gamemode that exists in the game Garry's Mod, it will show a progress bar along with a kill counter that indicates how many zombies are left before the round ends.
+The nZombies Zombie Progress Bar is an addon designed for the nZombies gamemode that exists in the game Garry's Mod, it will show a progress bar along with a kill counter that indicates how many zombies are left before the round ends.
 
 ![](https://i.imgur.com/xzmg9QE.gif)
 
