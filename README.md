@@ -1,5 +1,5 @@
 # nZombies Zombie Progress Bar
-Video demonstration here: https://www.youtube.com/watch?v=GBM4VnRUXXg
+Mod demonstration here: https://www.youtube.com/watch?v=GBM4VnRUXXg
 
 ## About this mod:
 
